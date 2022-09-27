@@ -1,4 +1,4 @@
 # Linux-git-
-LINUX (GIT)
-GIT
+#LINUX (GIT)
+#GIT
 https://yevgeniyasavchenko.github.io/Linux-git-/
